@@ -1,3 +1,10 @@
+
+# TANGUY WAS HIER !!!!!! 
+
+'blablabla'
+
+
+
 import pygame;
 
 #initialize pygmae
